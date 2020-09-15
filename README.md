@@ -6,20 +6,21 @@ You can check out my website at [My Website](https://portfoliovsevicky.herokuapp
 
 ## Content
 
-* [Basic ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/ZeroHiddenLayer.ipynb)This is a iPython notebook is one implementation of one Neural network. Here we have used zero hidden layer, so in a way this implementation is more like Logistic regression problem. We have used Sigmoid function as Activation layer.  
+* [Basic ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/ZeroHiddenLayer.ipynb):This is a iPython notebook is one implementation of one Neural network. Here we have used zero hidden layer, so in a way this implementation is more like Logistic regression problem. We have used Sigmoid function as Activation layer.  
 
 
-* [Simple ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/OneHiddenLayerANN.ipynb)
+* [Simple ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/OneHiddenLayerANN.ipynb): In this iPython notebook I have implemnted a ANN with one hidden neural network from scratch(No python framework), even though it has only one hidden layer it is giving very good output. As you can see some of the result below. One more example is there in the Notebook.
 
-
-As you can see some of the result below
 ![Input Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/input1.png "INPUT1")
 
 ![Output Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/output1.png "OUTPUT1")
 
 
 
-* [Deep ANN]()
+* [Deep ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_Deep/Complex_NN.ipynb): This is an scratch implementation of basic deep neural network. In the notebook you can see we have two models:
+	* Two hidden layer model
+	* Four hidden layer model,
+Eventhough we have added four hidden layer Our model is doing Awesome on treaining set, but not so good on new data.
 
 
 
@@ -30,11 +31,13 @@ As you can see some of the result below
 *Tools: sci-kit-learn, Numpy, Pandas, Seaborn, Matplotlib, PIL, h5*
 
 
-*
-
+* [Car Brand Prediction](https://github.com/donrockvic/DeepLearning_projects/blob/master/Deep-Learning-Car-Brand/Transfer_Learning_Resnet_50.ipynb): Transfer learning implementaion on RESNET50 model. I have used RESNET50 because this was the first model with Residul block(Skip connection) implemention, which give very good result. <br>
 Since I have trained the model with very less data, my model is not getting all the features. Is is able to done prediction with less accuraccy(My model is recognizing edge feature very well, so it will give you awesome result for Lamborghini).
 
 I will train this model with more data and update soon.
+
+
+*Tools: sci-kit-learn, Numpy, Tensorflo/Keras, Seaborn, Matplotlib,Pillow*
 
 
 
