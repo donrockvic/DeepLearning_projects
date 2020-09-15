@@ -19,6 +19,7 @@ Output:
 
 <br>
 Input1:
+
 ![Input Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/input2.png "INPUT2")
 
 Output1:
