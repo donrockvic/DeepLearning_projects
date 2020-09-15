@@ -15,6 +15,7 @@ Input:
 ![Input Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/input1.png "INPUT1")
 
 Output:
+
 ![Output Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/output12.png "OUTPUT1")
 
 <br>
@@ -23,6 +24,7 @@ Input1:
 ![Input Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/input2.png "INPUT2")
 
 Output1:
+
 ![Output Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/output2.png "OUTPUT2")
 
 
