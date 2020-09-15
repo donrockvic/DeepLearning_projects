@@ -15,6 +15,11 @@ You can check out my website at [My Website](https://portfoliovsevicky.herokuapp
 
 ![Output Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/output1.png "OUTPUT1")
 
+<br>
+
+![Input Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/input2.png "INPUT2")
+
+![Output Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/output2.png "OUTPUT2")
 
 
 * [Deep ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_Deep/Complex_NN.ipynb): This is an scratch implementation of basic deep neural network. In the notebook you can see we have two models:
