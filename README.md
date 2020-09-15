@@ -6,10 +6,10 @@ You can check out my website at [My Website](https://portfoliovsevicky.herokuapp
 
 ## Content
 
-* [Basic ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/ZeroHiddenLayer.ipynb):This is a iPython notebook is one implementation of one Neural network. Here we have used zero hidden layer, so in a way this implementation is more like Logistic regression problem. We have used Sigmoid function as Activation layer.  
+* [Basic ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/ZeroHiddenLayer.ipynb):This is a iPython notebook is one implementation of one Neural network. Here we have used zero hidden layer, so in a way this implementation is more like Logistic regression problem. We have used Sigmoid function as Activation layer. We have implemented Cat/Non-cat image classification.
 
 
-* [Simple ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/OneHiddenLayerANN.ipynb): In this iPython notebook I have implemnted a ANN with one hidden neural network from scratch(No python framework), even though it has only one hidden layer it is giving very good output. As you can see some of the result below. One more example is there in the Notebook.
+* [Simple ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/OneHiddenLayerANN.ipynb): In this iPython notebook I have implemnted a ANN with one hidden neural network from scratch(No python framework), even though it has only one hidden layer it is giving very good output. As you can see some of the result below.
 
 Input:
 ![Input Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/input1.png "INPUT1")
