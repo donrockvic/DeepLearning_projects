@@ -11,14 +11,15 @@ You can check out my website at [My Website](https://portfoliovsevicky.herokuapp
 
 * [Simple ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/OneHiddenLayerANN.ipynb): In this iPython notebook I have implemnted a ANN with one hidden neural network from scratch(No python framework), even though it has only one hidden layer it is giving very good output. As you can see some of the result below. One more example is there in the Notebook.
 
+Input:
 ![Input Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/input1.png "INPUT1")
-
-![Output Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/output1.png "OUTPUT1")
+Output:
+![Output Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/output12.png "OUTPUT1")
 
 <br>
-
+Input1:
 ![Input Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/input2.png "INPUT2")
-
+Output1:
 ![Output Image](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_simple/output2.png "OUTPUT2")
 
 
