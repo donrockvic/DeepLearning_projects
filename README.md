@@ -31,7 +31,7 @@ Output1:
 * [Deep ANN](https://github.com/donrockvic/DeepLearning_projects/blob/master/ANN_Deep/Complex_NN.ipynb): This is an scratch implementation of basic deep neural network. In the notebook you can see we have two models:
 	* Two hidden layer model
 	* Four hidden layer model,
-Eventhough we have added four hidden layer Our model is doing Awesome on treaining set, but not so good on new data.
+We have added four hidden layer in our model,However it is doing good on training set, but not so good on new data.
 
 
 
